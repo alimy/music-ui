@@ -1,0 +1,3 @@
+package dist
+
+//go:generate go-bindata -nomemcopy -pkg=dist -prefix=../src -debug=false -o=dist_gen.go ../src/...

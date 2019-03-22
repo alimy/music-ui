@@ -1,0 +1,9 @@
+node_modules
+dist/files/*
+*.txt
+*.log
+.env
+.env.*
+hermione
+.idea/
+*.iml
